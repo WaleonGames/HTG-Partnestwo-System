@@ -1,0 +1,5 @@
+Zakaz dystrybucji przez osoby trzecie dla bota "HTG - Partnerstwa System":
+
+1. Licencja użytkowania: Bot "HTG - Partnerstwa System" jest udostępniany wyłącznie na zasadach licencji do użytku własnego.
+2. Zakaz odsprzedaży i dystrybucji: Użytkownikowi zabrania się odsprzedaży, udostępniania lub dystrybucji bota w jakiejkolwiek formie bez pisemnej zgody właściciela.
+3. Ochrona praw autorskich: Wszelkie prawa autorskie i prawa do własności intelektualnej związane z botem należą do jego twórcy.

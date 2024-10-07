@@ -1,0 +1,7 @@
+Warunki Prywatności dla bota "HTG - Partnerstwa System":
+
+1. Gromadzenie danych: Bot "HTG - Partnerstwa System" zbiera wyłącznie dane niezbędne do jego działania, takie jak identyfikatory użytkowników Discorda oraz informacje o serwerach.
+2. Wykorzystanie danych: Zebrane dane są wykorzystywane wyłącznie w celu realizacji funkcji bota, takich jak zarządzanie partnerstwami oraz analiza treści.
+3. Udostępnianie danych: Żadne dane osobowe nie są udostępniane stronom trzecim, chyba że jest to wymagane przez prawo.
+4. Bezpieczeństwo: Bot stosuje standardowe procedury zabezpieczeń, aby chronić dane użytkowników przed nieautoryzowanym dostępem.
+5. Prawo do prywatności: Użytkownicy mają prawo zażądać usunięcia swoich danych poprzez kontakt z administratorem bota.

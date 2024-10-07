@@ -1,0 +1,2 @@
+[2024-10-05T12:33:31.430Z] Błąd 500: Received one or more errors
+[2024-10-05T12:35:07.364Z] Błąd 500: Received one or more errors
